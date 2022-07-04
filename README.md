@@ -6,7 +6,7 @@
 <a href="https://github.com/AadithPunathil" target="blank"><img src="https://img.shields.io/badge/Aadith%20Punathil-Official%20Github-green" alt="AadithPunathil" /> </a></p>
 <p align="left"> <a href="https://twitter.com/punathil_aadith" target="blank"><img src="https://img.shields.io/twitter/follow/punathil_aadith?logo=twitter&style=for-the-badge" alt="punathil_aadith" /></a></p>
 
-<img align="right" alt="GIF" width="400" src="https://github.com/muzaffar-khan/muzaffar-khan/blob/main/Profile.gif">
+<img align="right" alt="GIF" width="400" src="https://github.com/AadithPunathil/AadithPunathil/blob/main/Profile.gif">
 
 ## Some facts about me:    
   
@@ -18,14 +18,14 @@
 - ⚡ Fun fact **I think I am funny XD :)**
 
 <h2>Connect With Me <a target="_blank">
-  <img src="https://github.com/muzaffar-khan/muzaffar-khan/blob/main/Handshake.gif" height="32px" style="max-width:100%;"></a>
+  <img src="https://github.com/AadithPunathil/AadithPunathil/blob/main/Handshake.gif" height="32px" style="max-width:100%;"></a>
 </h2>
 
 <p align="left">
-<a href="https://twitter.com/punathil_aadith" target="blank"><img align="center" src="https://github.com/muzaffar-khan/muzaffar-khan/blob/main/twitter.svg" alt="muzaffar8394" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/aadith-punathil-b9a82518a" target="blank"><img align="center" src="https://github.com/muzaffar-khan/muzaffar-khan/blob/main/linkedin.svg" alt="muzaffar8394" height="30" width="40" /></a>
-<a href="https://www.instagram.com/aadithpunathil" target="blank"><img align="center" src="https://github.com/muzaffar-khan/muzaffar-khan/blob/main/instagram.svg" alt="themuzaffarkhan" height="30" width="40" /></a>
-<a href="https://www.facebook.com/aadith.pandu.96" target="blank"><img align="center" src="https://github.com/muzaffar-khan/muzaffar-khan/blob/main/facebook.svg" alt="themuzaffarkhan" height="30" width="40" /></a>
+<a href="https://twitter.com/punathil_aadith" target="blank"><img align="center" src="https://github.com/AadithPunathil/AadithPunathil/blob/main/twitter.svg" alt="AadithPunathil" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/aadith-punathil-b9a82518a" target="blank"><img align="center" src="https://github.com/AadithPunathil/AadithPunathil/blob/main/linkedin.svg" alt="aadith-punathil-b9a82518a" height="30" width="40" /></a>
+<a href="https://www.instagram.com/aadithpunathil" target="blank"><img align="center" src="https://github.com/AadithPunathil/AadithPunathil/blob/main/instagram.svg" alt="aadithpunathil" height="30" width="40" /></a>
+<a href="https://www.facebook.com/aadith.pandu.96" target="blank"><img align="center" src="https://github.com/AadithPunathil/AadithPunathil/blob/main/facebook.svg" alt="aadith.pandu.96" height="30" width="40" /></a>
 </p>
 
 ---
@@ -37,9 +37,11 @@
     <img alt="Python" src="https://img.shields.io/badge/-Python-2e3440?logoColor=white&logo=Python&style=for-the-badge&color=red" />
     <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-2e3440?logoColor=white&logo=html5&style=for-the-badge&color=green" />
     <img alt="Java Script" src="https://img.shields.io/badge/-JavaScript-2e3440?logoColor=white&logo=JavaScript&style=for-the-badge&color=yellow" />
-<!--     <img alt="UBUNTU" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"> -->
+    <img alt="UBUNTU" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
     <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
     <img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
+    <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
+    <img alt="SQLite" src ="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white"/>
 <!--     <img alt="Android Studio" src =""/> -->
   </a>
 </p>
@@ -53,7 +55,7 @@
 
 <p align="center">
   <a href="https://github.com/AadithPunathil">
-    <img height="150" width="175" src="https://github.com/muzaffar-khan/muzaffar-khan/blob/main/left.png">
+    <img height="150" width="175" src="https://github.com/AadithPunathil/AadithPunathil/blob/main/left.png">
     <a href="https://github.com/AadithPunathil" title="Go to Source">
       <img
         align="center"
@@ -62,7 +64,7 @@
         alt="AadithPunathil"
       />
     </a>
-    <img height="150" width="175" src="https://github.com/muzaffar-khan/muzaffar-khan/blob/main/right.png">
+    <img height="150" width="175" src="https://github.com/AadithPunathil/AadithPunathil/blob/main/right.png">
   </a>
 </p>
 
@@ -84,6 +86,6 @@
 
 ---
 <p align="center"><h3 align="center"> Show some ❤️ by starring some of the repositories!!!</h3></p>
-<img align="center" src="https://github.com/muzaffar-khan/muzaffar-khan/blob/main/footer.png" />
+<img align="center" src="https://github.com/AadithPunathil/AadithPunathil/blob/main/footer.png" />
 
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
