@@ -81,11 +81,6 @@
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=AadithPunathil.AadithPunathil)
 
----
-
-## Random
-<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
-
 
 ---
 <p align="center"><h3 align="center"> Show some ❤️ by starring some of the repositories!!!</h3></p>
