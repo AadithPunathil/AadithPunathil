@@ -13,7 +13,7 @@
 - 👀 I’m interested in developing. **
 - 💞️ I’m looking to collaborate on web and android development. **
 
-- 📫 How to reach me **aadithpunathil210@gmail.com**
+- 📫 How to reach me **aadithp210@gmail.com**
 
 - ⚡ Fun fact **I think I am funny XD :)**
 
