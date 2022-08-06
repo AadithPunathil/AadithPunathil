@@ -40,7 +40,7 @@
     <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
     <img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
     <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
-    <img alt="ERPNEXT" src="https://img.shields.io/badge/erpnext-%2300f.svg?style=for-the-badge&logo=erpnext&logoColor=white"/>
+    <img alt="ERPNEXT" src="https://img.shields.io/badge/erpnext-%2300f.svg?style=for-the-badge&logo=erpnext&logoColor=blue"/>
 <!--     <img alt="Android Studio" src =""/> -->
   </a>
 </p>
