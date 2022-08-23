@@ -67,6 +67,10 @@
   </a>
 </p>
 
+## 💳 Github Profile Summary Card
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jishnu-Epics&theme=vue"/>
+</p>
 ---
 <details open="">
     <summary><strong>My Github Stats 📈 </strong></summary>
