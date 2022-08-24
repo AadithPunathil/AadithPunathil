@@ -80,7 +80,7 @@
 <br />
 
 ---
-<a href="https://activity-graph.herokuapp.com/graph?username=AadithPunathil"><img alt="Aadith Punathil's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=AadithPunathil&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=AadithPunathil.AadithPunathil)
 
