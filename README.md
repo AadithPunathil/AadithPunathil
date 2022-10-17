@@ -6,7 +6,6 @@
 <a href="https://github.com/AadithPunathil" target="blank"><img src="https://img.shields.io/badge/Aadith%20Punathil-Official%20Github-green" alt="AadithPunathil" /> </a></p>
 <p align="left"> <a href="https://twitter.com/punathil_aadith" target="blank"><img src="https://img.shields.io/twitter/follow/punathil_aadith?logo=twitter&style=for-the-badge" alt="punathil_aadith" /></a></p>
 
-<img align="right" alt="GIF" width="400" src="https://github.com/AadithPunathil/AadithPunathil/blob/main/Profile.gif">
 
 ## Some facts about me:    
   
