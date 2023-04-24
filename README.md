@@ -15,6 +15,7 @@
 - 📫 How to reach me **aadithp210@gmail.com**
 
 - ⚡ Fun fact **I think I am funny XD :)**
+- My Another Github <a href="https://github.com/aadith-sigzen">aadith</a>
 
 <h2>Connect With Me <a target="_blank">
   <img src="https://github.com/AadithPunathil/AadithPunathil/blob/main/Handshake.gif" height="32px" style="max-width:100%;"></a>
